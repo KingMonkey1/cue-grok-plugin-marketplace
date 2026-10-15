@@ -1,0 +1,23 @@
+{
+  "name": "cue-marketplace",
+  "description": "Official Cue plugins for prompt improvement.",
+  "owner": {
+    "name": "Cue",
+    "email": "support@cue-prompt.com"
+  },
+  "plugins": [
+    {
+      "name": "cue",
+      "description": "Score and improve AI prompts with Cue before you send them.",
+      "category": "productivity",
+      "source": {
+        "type": "local",
+        "path": "./plugins/cue"
+      },
+      "version": "1.0.0",
+      "author": "Cue",
+      "homepage": "https://cue-prompt.com",
+      "keywords": ["prompts", "writing", "productivity", "ai"]
+    }
+  ]
+}
