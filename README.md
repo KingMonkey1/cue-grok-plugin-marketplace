@@ -5,7 +5,7 @@ Cue helps people make AI prompts clearer before they send them. It scores a sele
 ## Install
 
 ```bash
-grok plugin marketplace add <Cue marketplace repository URL>
+grok plugin marketplace add https://github.com/KingMonkey1/cue-grok-plugin-marketplace
 grok plugin install cue --trust
 ```
 
